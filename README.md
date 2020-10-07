@@ -5,7 +5,7 @@
 
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/guilhermebkel/gbkel-portfolio/master/src/assets/icon.png" align="right" width="120">
+<img src="https://raw.githubusercontent.com/guilhermebkel/gbkel-portfolio/master/logo.png" align="right" width="120">
 
 I'm currently focused on the Javascript ecosystem, but occasionally you will see me giving stars all around the github repositories.
 
