@@ -1,6 +1,7 @@
 ## 🙋🏽‍♂️ Guilherme Mota Bromonschenkel Lima
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.guilherr.me)](https://linkedin.guilherr.me) 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.guilherr.me)](https://linkedin.guilherr.me)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-green?style=flat-square&logo=Whatsapp&logoColor=white&link=https://whatsapp.guilherr.me)](https://whatsapp.guilherr.me) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=https://mail.guilherr.me)](https://mail.guilherr.me)
 
 ### Hi there 👋
