@@ -9,6 +9,6 @@
 
 I'm currently focused on the Javascript ecosystem, but occasionally you will see me giving stars all around the github repositories.
 
-I also write some notes about what I'm learning on my [learning-notes](https://about.guilherr.me/learning-notes) repo.
+I also write some notes about what I'm learning on my [gbkel-about/learning-notes](https://about.guilherr.me/learning-notes) repo.
 
-Last but not least, you're able to know more about me on my [life-long-road](https://about.guilherr.me) repo.
+Last but not least, you're able to know more about me on my [gbkel-about](https://about.guilherr.me) repo.
