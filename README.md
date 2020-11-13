@@ -9,9 +9,9 @@
 
 # Hi there 👋
 
-My name is Guilherme Mota. I'm a full-stack developer (with knowledge on devops/design as well) currently working as a Tech Lead at PICSIZE.
+My name is Guilherme Mota. I'm a Tech Lead at @PICSIZE. I'm working mostly with Node.js, Typescript and React.js but I love to know about everything that revolves around technology, so I have some knowledge on Devops and Design as well.
 
-I'm currently focused on the Javascript ecosystem, but occasionally you will see me giving stars all around the github repositories.
+Occasionally you will see me giving stars all around the github repositories just for curiosity.
 
 
 ## 👨‍💻 Current Projects
