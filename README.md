@@ -11,7 +11,7 @@
 
 My name is Guilherme Mota. I'm a Tech Lead at @PICSIZE. I'm working mostly with Node.js, Typescript and React.js but I love to know about everything that revolves around technology, so I have some knowledge on Devops and Design as well.
 
-Occasionally you will see me giving stars all around the github repositories just for curiosity.
+I'm also passionate about open source, so occasionally you will see me giving stars all around the github repositories and developing new projects.
 
 
 ## 👨‍💻 Current Projects
