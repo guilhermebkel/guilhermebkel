@@ -16,7 +16,7 @@ I'm currently focused on the Javascript ecosystem, but occasionally you will see
 
 ## 👨‍💻 Current Projects
 
-On part of my free time I like to stay focused in some personal projects just for fun/curiosity.
+In part of my free time I like to stay focused on some personal projects just for fun/curiosity.
 
 > 💎 [Personal Website](https://guilherr.me) - My personal website which I use to show some info about me technically/personally.
 
