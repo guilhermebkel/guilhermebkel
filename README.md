@@ -7,8 +7,6 @@
 	</a>
 </p>
 
----
-
 # Hi there 👋
 
 My name is Guilherme Mota. I'm a full-stack developer (with knowledge on devops/design as well) currently working as a Tech Lead at PICSIZE.
