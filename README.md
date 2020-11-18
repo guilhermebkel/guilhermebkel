@@ -18,9 +18,9 @@ I'm also passionate about open source, so occasionally you will see me giving st
 
 In part of my free time I like to stay focused on some personal projects just for fun/curiosity.
 
-> 💎 [Personal Website](https://guilherr.me) - My personal website which I use to show some info about me technically/personally.
+> 💎 [Personal Website](https://github.com/guilhermebkel/gbkel-portfolio) - My personal website which I use to show some info about me technically/personally.
 
-> 🎴 [Uno Game](https://uno.guilherr.me) - A remake of Uno Game that I have made in Javascript.
+> 🎴 [Uno Game](https://github.com/guilhermebkel/uno-game) - A remake of Uno Game that I have made in Javascript.
 
 ## 📫️ How to reach me
 
