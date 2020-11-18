@@ -7,7 +7,7 @@
 	</a>
 </p>
 
-# <img src="./assets/hand.webp" width="40px"> Hi there 
+# Hi there <img src="./assets/hand.webp" width="35px">
 
 My name is Guilherme Mota. I'm currently a Tech Lead at @PICSIZE. I'm working mostly with Node.js, Typescript and React.js but I love to know about everything that revolves around technology, so I have some knowledge on Devops and Design as well.
 
