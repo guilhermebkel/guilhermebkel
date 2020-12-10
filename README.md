@@ -1,7 +1,7 @@
 <p align="center">
 	<a href="https://guilherr.me" target="_blank" title="Open my website">
 		<img
-			src="assets/banner.png"
+			src="assets/banner.svg"
 			alt="Preview image of Guilherme Mota."
 		>
 	</a>
