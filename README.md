@@ -22,6 +22,8 @@ In part of my free time I like to stay focused on some personal projects just fo
 
 > 🎴 [Uno Game](https://github.com/guilhermebkel/uno-game) - A remake of Uno Game that I have made in Javascript.
 
+> 🤖 [AhNegão Discord Bot](https://github.com/guilhermebkel/ah-negao-discord-bot) - A bot to retrieve posts from AhNegão blog to a discord channel.
+
 ## 📫️ How to reach me
 
 If you want to get in touch, you can reach me out on any channels below.
