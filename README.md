@@ -25,6 +25,8 @@ In part of my free time I like to stay focused on some personal projects just fo
 > 🤖 [AhNegão Discord Bot](https://github.com/guilhermebkel/ah-negao-discord-bot) - A bot that retrieves posts from AhNegão blog to a discord channel.
 >
 > 📒 [Notes](https://github.com/guilhermebkel/gbkel-notes) - The notes I take from books and articles I'm currently reading.
+>
+> 📑 [Kindlefy](https://github.com/gbkel/kindlefy) - A github action to sync all kind of contents with kindle.
 
 ## 📫️ How to reach me
 
