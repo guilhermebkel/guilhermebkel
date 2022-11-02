@@ -25,6 +25,8 @@ In part of my free time I like to stay focused on some personal projects just fo
 > 📒 [Notes](https://github.com/guilhermebkel/gbkel-notes) - The notes I take from books and articles I'm currently reading.
 >
 > 📑 [Kindlefy](https://github.com/gbkel/kindlefy) - A github action to sync all kind of contents with kindle.
+> >
+> 💭 [Alexa Skills](https://github.com/guilhermebkel/alexa-skills) - A bunch of alexa skills I've created to automatize actions in my day-to-day life.
 
 ## 📫️ How to reach me
 
