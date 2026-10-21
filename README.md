@@ -18,7 +18,7 @@ I'm also passionate about open source, so occasionally you will see me giving st
 
 In part of my free time I like to stay focused on some personal projects just for fun/curiosity.
 
-> 🧰 [Harness Ledger](https://github.com/guilhermebkel/harness-ledger) - A Claude Code plugin that reads the sessions your agent already saves and suggests evidence-based changes to its harness.
+> 🧰 [Harness Ledger](https://github.com/guilhermebkel/harness-ledger) - A plugin that reads the sessions your coding agent already saves and suggests evidence-based changes to its harness.
 >
 > 💎 [Personal Website](https://github.com/guilhermebkel/gbkel-portfolio) - My personal website which I use to show some info about me technically/personally.
 >
