@@ -22,7 +22,7 @@ Everything I'm working on right now lives on my website, so it is always up to d
 
 > 🚀 [Current projects](https://guilherr.me/#projects) - What I'm building at the moment.
 >
-> ✍️ [Blog posts](https://guilherr.me/#posts) - Things I've been writing about.
+> ✍️ [Blog posts](https://guilherr.me/blog) - Things I've been writing about.
 
 ## 📫️ How to reach me
 
