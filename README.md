@@ -18,7 +18,7 @@ I'm also passionate about open source, so occasionally you will see me giving st
 
 In part of my free time I like to stay focused on some personal projects just for fun/curiosity, and sometimes I write about what I learn along the way.
 
-Everything I'm working on right now lives on my website, so it is always up to date:
+Everything I'm working on right now lives on [my website](https://guilherr.me), so it is always up to date:
 
 > 🚀 [Current projects](https://guilherr.me/#projects) - What I'm building at the moment.
 >
