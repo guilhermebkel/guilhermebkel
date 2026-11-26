@@ -16,17 +16,13 @@ I'm also passionate about open source, so occasionally you will see me giving st
 
 ## 👨‍💻 Current Projects
 
-In part of my free time I like to stay focused on some personal projects just for fun/curiosity.
+In part of my free time I like to stay focused on some personal projects just for fun/curiosity, and sometimes I write about what I learn along the way.
 
-> 🧰 [Harness Ledger](https://github.com/guilhermebkel/harness-ledger) - A plugin that reads the sessions your coding agent already saves and suggests evidence-based changes to its harness.
+Everything I'm working on right now lives on [my website](https://guilherr.me), so it is always up to date:
+
+> 🚀 [Current projects](https://guilherr.me/#projects) - What I'm building at the moment.
 >
-> 💎 [Personal Website](https://github.com/guilhermebkel/gbkel-portfolio) - My personal website which I use to show some info about me technically/personally.
->
-> 🎴 [Uno Game](https://github.com/guilhermebkel/uno-game) - A remake of Uno Game that I have made in Javascript.
->
-> 📑 [Kindlefy](https://github.com/gbkel/kindlefy) - A github action to sync all kind of contents with kindle.
-> >
-> 👩‍💻 [Alexa Skills](https://github.com/guilhermebkel/alexa-skills) - A bunch of alexa skills I've created to automatize actions in my day-to-day life.
+> ✍️ [Blog posts](https://guilherr.me/blog) - Things I've been writing about.
 
 ## 📫️ How to reach me
 
