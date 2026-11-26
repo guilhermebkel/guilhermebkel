@@ -14,7 +14,7 @@ My name is Guilherme Mota. I'm currently a Tech Lead at [Letalk](https://letalk.
 I'm also passionate about open source, so occasionally you will see me giving stars all around the github repositories and developing new projects.
 
 
-## 👨‍💻 Current Projects
+## 👨‍💻 What I'm up to
 
 In part of my free time I like to stay focused on some personal projects just for fun/curiosity, and sometimes I write about what I learn along the way.
 
