@@ -9,12 +9,12 @@
 
 # Hi there 👋
 
-My name is Guilherme Mota. I'm currently a Tech Lead at [Letalk](https://letalk.com.br). I'm working mostly with Node.js, Typescript and React.js but I love to know about everything that revolves around technology, so I have some knowledge about Devops and Design as well.
+My name is Guilherme Mota. I'm currently a Tech Lead at [Letalk](https://letalk.com.br), with over 7 years of experience bringing together software engineering, AI engineering, SRE and strategic vision.
 
 I'm also passionate about open source, so occasionally you will see me giving stars all around the github repositories and developing new projects.
 
 
-## 👨‍💻 Current Projects
+## 👨‍💻 What I'm up to
 
 In part of my free time I like to stay focused on some personal projects just for fun/curiosity, and sometimes I write about what I learn along the way.
 
